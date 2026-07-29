@@ -28,6 +28,9 @@ Sempre em busca de novos desafios.
 - Python
 - Banco de Dados
 - Git e GitHub
+- Qsl
+- Html
+- css
 
 ---
 
