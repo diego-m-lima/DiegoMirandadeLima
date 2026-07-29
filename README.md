@@ -38,7 +38,7 @@ Sempre em busca de novos desafios.
 
 ## Objetivos Profissionais
 
-Meu foco atual é conquistar uma oportunidade de estágio ou como Desenvolvedor, onde eu possa aplicar meus conhecimentos em
+Meu foco atual é conquistar uma oportunidade de estágio como Desenvolvedor, onde eu possa aplicar meus conhecimentos em
 desenvolvimento.
 
 ---
