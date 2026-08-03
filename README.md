@@ -1,5 +1,3 @@
-Diego Miranda de Lima
-
 <!--
 **diego-m-lima/diego-m-lima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
