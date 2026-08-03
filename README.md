@@ -1,3 +1,10 @@
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/diego-m-lima/diego-m-lima/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/diego-m-lima/diego-m-lima/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/diego-m-lima/diego-m-lima/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
+
+###
 <div data-importer="techs" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -76,10 +83,3 @@ desenvolvimento.
 
 Comecei minha jornada na programação em fevereiro/2026 e desde então não parei de estudar.
 Meu primeiro "Hello World" foi em python.
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/diego-m-lima/diego-m-lima/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/diego-m-lima/diego-m-lima/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/diego-m-lima/diego-m-lima/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
-
-###
